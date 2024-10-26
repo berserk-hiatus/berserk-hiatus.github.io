@@ -1,5 +1,28 @@
 [
   {
+    "number": 21,
+    "year": 2024,
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 377,
+    "date": "2024-10-25"
+  },
+  {
+    "number": 20,
+    "year": 2024,
+    "released": false
+  },
+  {
+    "number": 19,
+    "year": 2024,
+    "released": false
+  },
+  {
+    "number": 18,
+    "year": 2024,
+    "released": false
+  },
+  {
     "number": 17,
     "year": 2024,
     "released": false
