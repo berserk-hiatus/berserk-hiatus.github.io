@@ -2,7 +2,7 @@
   "name": "hiatus-chart",
   "version": "1.0.0",
   "scripts": {
-    "homepage": "https://dragonsl4yer.github.io/berserk-hiatus.github.io/",
+    "homepage": "https://berserk-hiatus.github.io/",
     "dev": "vite",
     "build": "vite build",
     "serve": "vite preview",
