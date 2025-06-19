@@ -1,5 +1,51 @@
 [
   {
+    "number": 13,
+    "year": 2025,
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 382,
+    "date": "2025-06-27"
+  },
+  {
+    "number": 12,
+    "year": 2025,
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 381,
+    "date": "2025-06-13"
+  },
+  {
+    "number": 11,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 10,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 9,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 8,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 7,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 6,
+    "year": 2025,
+    "released": false
+  },
+  {
     "number": 5,
     "year": 2025,
     "released": true,
