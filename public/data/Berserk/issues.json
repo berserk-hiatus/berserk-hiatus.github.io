@@ -23,7 +23,8 @@
   {
     "number": "9-10",
     "year": 2025,
-    "released": false
+    "released": false,
+    "double_issue": true
   },
   {
     "number": 8,
