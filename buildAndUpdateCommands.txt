@@ -1,4 +1,2 @@
-npm run build
-git add dist -f
-git commit -m "added new dist"
-git subtree push --prefix dist origin gh-pages
+Edit public/data/Berserk/issues.json and/or public/data/Berserk/info.json
+Run ./buildNewDist.sh
