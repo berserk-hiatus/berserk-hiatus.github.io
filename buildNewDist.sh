@@ -18,4 +18,6 @@ git commit -m "$1"
 git subtree push --prefix dist origin gh-pages
 
 # Update master branch with file changes
+git add .
+git commit -m "$1"
 git push
