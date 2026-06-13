@@ -15,7 +15,8 @@
   {
     "number": "9-10",
     "year": 2026,
-    "released": false
+    "released": false,
+    "double_issue": true
   },
   {
     "number": 8,
