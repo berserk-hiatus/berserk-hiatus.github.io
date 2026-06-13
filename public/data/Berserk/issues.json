@@ -1,5 +1,93 @@
 [
   {
+    "number": 12,
+    "year": 2026,
+    "released": true,
+    "arc": "fantasia",
+    "chapter": 384,
+    "date": "2026-06-12"
+  },
+  {
+    "number": 11,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": "9-10",
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 8,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 7,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 6,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 5,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 4,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 3,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 2,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 1,
+    "year": 2026,
+    "released": false
+  },
+  {
+    "number": 24,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 23,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 22,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 21,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 20,
+    "year": 2025,
+    "released": false
+  },
+  {
+    "number": 19,
+    "year": 2025,
+    "released": false
+  },
+  {
     "number": 18,
     "year": 2025,
     "released": true,
