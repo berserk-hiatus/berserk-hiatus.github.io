@@ -35,9 +35,9 @@ export default defineComponent({
       }
       text += `Issue: ${props.issue.number}`;
 
-      /*if (props.issue.date) {
+      if (props.issue.date && props.issue.released === true) {
         text += `; Date: ${props.issue.date}`;
-      }*/
+      }
 
       return text;
     });
